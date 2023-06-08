@@ -6,9 +6,9 @@ Our related work based on this dataset currently has one formal published work (
 
 ​	[1] X. Yu, Z. Cao, Z. Wu, C. Song, J. Zhu and Z. Xu, "A Novel Potential Drowning Detection System Based on Millimeter-Wave Radar," 2022 17th International Conference on Control, Automation, Robotics and Vision (ICARCV), Singapore, Singapore, 2022, pp. 659-664, doi: 10.1109/ICARCV57592.2022.10004245.
 
-​	[2] Wait for it!
+​	[2] X. Yu, Z. Cao, Z. Wu, C. Song, J. Zhu and Z. Xu, "Sample Intercorrelation Based Multi-domain Fusion Network for Aquatic Human Activity Recognition Using Millimeter-wave Radar", in IEEE Geoscience and Remote Sensing Letters, 2023, doi: 10.1109/LGRS.2023.3284395.
 
-​	[3] Wait for it!
+​ 	[3] Z. Wu, Z. Cao, X. Yu, C. Song, J. Zhu and Z. Xu, "A Novel Multi-Person Activity Recognition Algorithm Based on Point Clouds Measured by Millimeter-Wave MIMO Radar", in IEEE Sensor Journal.
 
 ### AHAR TASK
 
