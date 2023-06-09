@@ -8,7 +8,7 @@ Our related work based on this dataset currently has one formal published work (
 
 ​	[2] X. Yu, Z. Cao, Z. Wu, C. Song, J. Zhu and Z. Xu, "Sample Intercorrelation Based Multi-domain Fusion Network for Aquatic Human Activity Recognition Using Millimeter-wave Radar", in IEEE Geoscience and Remote Sensing Letters, 2023, doi: 10.1109/LGRS.2023.3284395.
 
-​ 	[3] Z. Wu, Z. Cao, X. Yu, C. Song, J. Zhu and Z. Xu, "A Novel Multi-Person Activity Recognition Algorithm Based on Point Clouds Measured by Millimeter-Wave MIMO Radar", in IEEE Sensor Journal.
+​ 	[3] Z. Wu, Z. Cao, X. Yu, C. Song, J. Zhu and Z. Xu, "A Novel Multi-Person Activity Recognition Algorithm Based on Point Clouds Measured by Millimeter-Wave MIMO Radar", in IEEE Sensor Journal, 2023, 	doi: 10.1109/JSEN.2023.3283778.
 
 ### AHAR TASK
 
