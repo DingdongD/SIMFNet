@@ -46,7 +46,10 @@ Our related work based on this dataset currently has one formal published work (
 
 ```
 AHAR-I download link：https://pan.baidu.com/s/1r1EoYE4SxeX-yP5mz0Co-A 
-link password：2l34 
+link password：2l34
+
+AHAR-II download link：https://pan.baidu.com/s/15lGhAptfPDBbK4AutnyZ_w 
+link password：zju1 
 ```
 
 ​	In addition to this, we will further share our work based on AHAR-I (Two-Stage-Fusion Network, TSFNet), which was published in the international computer conference `ICARCV 2022`.  We sincerely hope that readers or users using our dataset and codes can cite our work,
